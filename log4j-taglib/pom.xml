@@ -31,7 +31,7 @@
     <log4jParentDir>${basedir}/..</log4jParentDir>
     <docLabel>Log4j Tag Library Documentation</docLabel>
     <projectDir>/taglib</projectDir>
-    <spring.version>3.1.2.RELEASE</spring.version>
+    <spring.version>5.2.22.RELEASE</spring.version>
   </properties>
   <dependencies>
     <dependency>
